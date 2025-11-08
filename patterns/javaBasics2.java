@@ -1,5 +1,5 @@
-package patterns;
+// package patterns;
 
-public class javaBasics2 {
+// public class javaBasics2 {
     
-}
+// }
