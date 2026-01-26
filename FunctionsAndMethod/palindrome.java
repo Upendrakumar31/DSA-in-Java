@@ -27,3 +27,14 @@ public class palindrome {
         return false;
     }
 }
+
+
+
+
+
+
+
+
+
+
+

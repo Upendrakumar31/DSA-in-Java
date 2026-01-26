@@ -1,4 +1,4 @@
-package patterns;
+package Patterns;
 
 public class characters {
     public static void main(String args[]){
