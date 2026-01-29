@@ -12,7 +12,7 @@ public class spiralMatrics {
             for(int j=startRow; j<=endCol; j++){
                 System.out.print(Matrix[startRow][j]+ " ");
             }
-            //right boundary
+            //right boundary 
             for(int i=startRow+1; i<=endRow; i++){
                 System.out.print(Matrix[i][endCol]+ " ");
             }
